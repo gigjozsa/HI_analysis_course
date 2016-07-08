@@ -91,13 +91,13 @@ $ source bin/activate
 First, lets clone the repository from github, you should use your own forked version if you want to make changes
 
 ```
-$ git clone https://github.com/[username]/template.git
+$ git clone https://github.com/[username]/HI_analysis_course.git
 ```
 
 If you just want to run the notebooks interactively you can just use this repository.
 
 ```
-$ git clone https://github.com/gigjozsa/template.git
+$ git clone https://github.com/gigjozsa/HI_analysis_course.git
 ```
 
 Now this is a completely clean environment, there are no python packages installed, we need to set those up. There are two ways to do this, first is by running the following pip install commands, the other is by installing from the requirements file included in the this repository. I recommend the requirements file as it contains current version information (but, this may fail due to the package ordering, then you will need to try the to install packages manually, described below). The file is in the main directory of the repository. This will take a bit of time to setup, I recommend a tea break.
