@@ -1,6 +1,6 @@
-# HI techniques notebook
+# HI analysis course
 
-An ipython notebook-based book to teach or record studies in the scope of radio astronomy. These notebooks are thought to be a community effort with the aim to be constantly improving and adding to the content in an effort to make the topics as accessible as possible.  Please contribute, whether it is content, editing, or even suggestions.
+An ipython notebook-based book to teach or record studies in the scope of radio astronomy, in this case HI analysis. These notebooks are thought to be a community effort with the aim to be constantly improving and adding to the content in an effort to make the topics as accessible as possible.  Please contribute, whether it is content, editing, or even suggestions.
 
 The first book of this kind has been used to teach the NASSP 2016 [Fundamentals of Radio Interferometry](https://griffinfoster.github.io/fundamentals_of_interferometry/) Masters' Course. Most structural material is copied from that course.
 
