@@ -1,4 +1,4 @@
-# HI techniques notebook
+# HI techniques notebook s
 
 An ipython notebook-based book to teach or record studies in the scope of radio astronomy. These notebooks are thought to be a community effort with the aim to be constantly improving and adding to the content in an effort to make the topics as accessible as possible.  Please contribute, whether it is content, editing, or even suggestions.
 
