@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# HI techniques notebook s
+# HI techniques notebook
 =======
 # HI analysis course
->>>>>>> d0dee1c68bd625c04eb2fe9c560a4b279dfe3e42
 
 An ipython notebook-based book to teach or record studies in the scope of radio astronomy, in this case HI analysis. These notebooks are thought to be a community effort with the aim to be constantly improving and adding to the content in an effort to make the topics as accessible as possible.  Please contribute, whether it is content, editing, or even suggestions.
 
@@ -173,9 +171,18 @@ sudo apt-get install gfortran
 ```
 
 ### Contributors
-
+* Michelle Cluver
+* Nadine Giese
+* Neeraj Gupta
+* Thijs van der Hulst
+* Gyula (Josh) Jozsa ([@gigjozsa](https://github.com/gigjozsa))
+* Peter Kamphuis
+* Juergen Kerp
+* D.-J. Pisano
+* Paolo Serra
+* Kristine Spekkens
+* Tobias Westmeier
 * Griffin Foster ([@gigjozsa](https://github.com/griffinfoster))
 * Trienko Grobler
-* Gyula (Josh) Jozsa ([@gigjozsa](https://github.com/gigjozsa))
 * Oleg Smirnov ([@o-smirnov](https://github.com/o-smirnov))
 * et al.
